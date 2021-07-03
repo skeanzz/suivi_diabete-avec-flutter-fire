@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239299015442",
+    "project_id": "glycefy",
+    "storage_bucket": "glycefy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239299015442:android:6e90d7ef277a06696879cb",
+        "android_client_info": {
+          "package_name": "com.example.glycefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239299015442-cd73vj1rn7ca3beg110p4d9o10ontnqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOfDbc3Qd01ulbKjaYcCKY24JND7QcF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239299015442-cd73vj1rn7ca3beg110p4d9o10ontnqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
